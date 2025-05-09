@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Imam Bahri Alwi</h1>
-<h3 align="center">Software Developer | Full-Stack JavaScript | Based in Indonesia 🇮🇩</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="mailto:imamabahrialwi21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
