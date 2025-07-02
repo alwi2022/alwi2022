@@ -2,7 +2,7 @@
 
 <hr>
 <p align="justify">
-Hi! I'm <strong>Imam Bahri Alwi</strong>, a highly disciplined and purpose-driven full-stack developer based in Serang, Indonesia. I love building impactful digital experiences with clean code and good design. I bring strong focus and perseverance to every project. I thrive in collaborative environments, enjoy exchanging ideas, and believe great products are built through teamwork, empathy, and continuous learning.
+I’m a full-stack developer based in Serang, Indonesia with a focus on building clean, scalable, and user-centered web applications. I approach development with discipline and attention to detail, combining experience across frontend and backend technologies. I enjoy working in collaborative environments, continuously learning, and contributing to meaningful digital products that make an impact.
 </p>
 
 <h3 align="center">My GitHub Stats</h3>
